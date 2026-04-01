@@ -625,11 +625,22 @@
     "reuse_designators": true,
     "subpart_first_id": 65,
     "subpart_id_separator": 0,
-    "top_level_sheets": [],
+    "top_level_sheets": [
+      {
+        "filename": "KiCad-Git Workshop.kicad_sch",
+        "name": "Root",
+        "uuid": "2560e339-23aa-4fe7-8757-a9286f7a6852"
+      }
+    ],
     "used_designators": "",
     "variants": []
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "2560e339-23aa-4fe7-8757-a9286f7a6852",
+      "Root"
+    ]
+  ],
   "text_variables": {},
   "tuning_profiles": {
     "meta": {
