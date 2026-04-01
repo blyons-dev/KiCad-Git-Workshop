@@ -1,4 +1,5 @@
-# KiCAD Setup
+# KiCAD - GitHub Integration using the Git Plugin for KiCad
+This workshop is intended to teach you how to utilize GitHub
 
 ## Installation
 1. Download KiCAD from the official website.
